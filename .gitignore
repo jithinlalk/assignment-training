@@ -1,0 +1,5 @@
+# Ignore everything inside ignore
+/ignore/*
+
+# But not these files...
+!/ignore/present.txt
